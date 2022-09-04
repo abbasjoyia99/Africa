@@ -1,4 +1,4 @@
-# Africa application is developed for learning by using SWiftUI
+# Africa application is developed for learning by using SwiftUI
 
 # Topic Coverd
 
