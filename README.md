@@ -15,5 +15,8 @@ https://user-images.githubusercontent.com/27265918/188308658-526b641b-15f1-4200-
 5-How to play VIDEO files in SwiftUI framework \
 6-How to create MAP with ANNOTATIONS in SwiftUI
 
+# Source of learning
+SwiftUI Masterclass 2022 - iOS App Development & Swift
+
 # Contact 
 abbasjoyia99@gmail.com
