@@ -58,6 +58,7 @@
 		D7FB0BCA28C0C5D20058CAD5 /* CodableBundleExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7FB0BC928C0C5D20058CAD5 /* CodableBundleExtension.swift */; };
 		D7FB0BCE28C0CF950058CAD5 /* AnimalListItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7FB0BCD28C0CF950058CAD5 /* AnimalListItemView.swift */; };
 		D7FB0BD028C0D3690058CAD5 /* AnimalModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7FB0BCF28C0D3690058CAD5 /* AnimalModel.swift */; };
+		D7FC760728C5E24B0018D534 /* AnimalGridItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7FC760628C5E24B0018D534 /* AnimalGridItemView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -114,6 +115,7 @@
 		D7FB0BC928C0C5D20058CAD5 /* CodableBundleExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodableBundleExtension.swift; sourceTree = "<group>"; };
 		D7FB0BCD28C0CF950058CAD5 /* AnimalListItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalListItemView.swift; sourceTree = "<group>"; };
 		D7FB0BCF28C0D3690058CAD5 /* AnimalModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalModel.swift; sourceTree = "<group>"; };
+		D7FC760628C5E24B0018D534 /* AnimalGridItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalGridItemView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -225,6 +227,7 @@
 				D7D991FC28C212680094FCC5 /* VideoPlayerView.swift */,
 				D7D9920328C21D8A0094FCC5 /* MapAnnotationView.swift */,
 				D7D9920528C224E60094FCC5 /* MotionAnimationView.swift */,
+				D7FC760628C5E24B0018D534 /* AnimalGridItemView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -381,6 +384,7 @@
 				D7FB0BCA28C0C5D20058CAD5 /* CodableBundleExtension.swift in Sources */,
 				D7D9920228C217A90094FCC5 /* LocationModel.swift in Sources */,
 				D7D991F328C1E2820094FCC5 /* FactView.swift in Sources */,
+				D7FC760728C5E24B0018D534 /* AnimalGridItemView.swift in Sources */,
 				D7D991F128C1DF0A0094FCC5 /* InsetGalleryView.swift in Sources */,
 				D7D9920428C21D8A0094FCC5 /* MapAnnotationView.swift in Sources */,
 				D7FB0B7628C0BAAC0058CAD5 /* ContentView.swift in Sources */,
